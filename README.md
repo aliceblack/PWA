@@ -11,5 +11,5 @@ Win+R
 chrome --ignore-certificate-errors
 ```  
   
-![install-pwa.jpg](images/install-pwa.png)  
-![standalone-pwa.jpg](images/standalone-pwa.png)  
+![install-pwa.png](images/install-pwa.png)  
+![standalone-pwa.jpg](images/standalone-pwa.jpg)  
